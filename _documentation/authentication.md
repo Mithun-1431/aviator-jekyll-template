@@ -5,7 +5,8 @@ parameters:
   - name:
     content:
 content_markdown: |-
-  You need to be authenticated for all API requests. Adding a line by Mithun Prabhakara. You can generate an API key in your developer dashboard.
+  You need to be authenticated for all API requests. Adding a line-1 by Mithun Prabhakara. Adding-line-2.
+  You can generate an API key in your developer dashboard.
 
   Add the API key to all requests as a GET parameter.
 
